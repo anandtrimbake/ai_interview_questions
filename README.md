@@ -1,4 +1,4 @@
-# ðŸŽ¯ AI Interview Questions Repository
+# 📚 AI Interview Questions Repository
 
 > A comprehensive, curated collection of high-quality interview questions and answers for AI-related roles. Master the art of AI interviews by understanding role-specific thinking patterns, not just memorizing answers.
 
