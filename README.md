@@ -1,6 +1,13 @@
-# AI Interview Questions Repository
+# ðŸŽ¯ AI Interview Questions Repository
 
-A curated collection of high-quality interview questions and answers for AI-related roles. This repository helps candidates understand how interviews differ across roles—not just memorize answers.
+> A comprehensive, curated collection of high-quality interview questions and answers for AI-related roles. Master the art of AI interviews by understanding role-specific thinking patterns, not just memorizing answers.
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-interview-questions?style=social)](https://github.com/yourusername/ai-interview-questions)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-blue.svg)](https://github.com/yourusername/ai-interview-questions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+---
 
 ## 🎯 Purpose
 
